@@ -1,8 +1,8 @@
-# **_🎶 IA-Bot_**
+# **_🎶 IA Bot_**
 
 IA est un bot Musique utilisant discord.js 12 ainsi que Lavalink pour atteindre une belle qualité !
 
-# 📚 - Utilisation
+# 📚 Utilisation
 
 * Complétez le fichier `config.js`
 
@@ -30,7 +30,7 @@ IA est un bot Musique utilisant discord.js 12 ainsi que Lavalink pour atteindre 
 * Téléchargez jdk (java) version 13
 * Téléchargez la dernière version de [Lavalink](https://github.com/Frederikam/Lavalink/releases) en jar et placez le fichier dans le dossier `utils/Lavalink`
 
-## 🚀 - Démarrer le serveur Lavalink
+## 🚀 Démarrer le serveur Lavalink
 
 
 **Sur Windows** 
